@@ -1,6 +1,6 @@
 ---
 name: Ouroboros-request.md
-about: Describe this issue template's purpose here.
+about: Report any issues you find in the book.
 title: ''
 labels: ''
 assignees: HammontreeArt
